@@ -24,4 +24,3 @@ install_github("ramadatta/ClustrPairs")
 library("ClustrPairs")
 
 
-
