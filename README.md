@@ -22,5 +22,5 @@ Now we can install the package using the following command:
 install_github("ramadatta/ClustrPairs")
 
 library("ClustrPairs")
-
+![Alt text](https://github.com/ramadatta/ClustrPairs/blob/master/Screenshot%20from%202019-04-12%2013-49-54.png "Clusters from a list of pairs")
 
