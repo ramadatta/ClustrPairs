@@ -12,7 +12,8 @@
 #' @export
 #' @examples ClustrPairs("connected_pairs.txt")
 #' @name ClustrPairs
-
+install.packages("igraph")
+install.packages("ggplot2")
 library(igraph)
 library(ggplot2)
 
